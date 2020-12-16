@@ -17,3 +17,11 @@ The client is not interested in calling these individual services instead it wan
 When a new employee is added, related project and salary details should also be created in the database.
 
 A single method should be exposed to update employee, project, and salary details.
+
+
+**Application Output**
+
+![](facade-design-pattern-application-output.PNG)
+
+
+The complete details can be found at the following link: https://executecommands.com/facade-design-pattern-in-csharp-simple-example/
